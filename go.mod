@@ -1,4 +1,4 @@
-module envtojson
+module github.com/umairrsyedd/envtojson
 
 go 1.20
 
