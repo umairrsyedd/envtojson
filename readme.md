@@ -11,6 +11,12 @@ A simple command-line tool to convert `.env` files to JSON format without readin
 
 🔐 **Security Note:** Rest assured that we do not read the contents of your `.env` file during the conversion process. Your sensitive environment variable data remains private.
 
+## Get Started
+
+```sh
+go get -u github.com/umairrsyedd/envtojson
+```
+
 ## Usage
 
 Convert a `.env` file to JSON:
